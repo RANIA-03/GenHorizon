@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArtifyGen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14886ba669d020413fc918cb1e464b306c67eddb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArtifyGen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArtifyGen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

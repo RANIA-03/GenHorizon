@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rania\\OneDrive\\Desktop\\GenHorizon\\ArtifyGen\\ArtifyGen.csproj": {}
+    "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\ArtifyGen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rania\\OneDrive\\Desktop\\GenHorizon\\ArtifyGen\\ArtifyGen.csproj": {
+    "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\ArtifyGen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rania\\OneDrive\\Desktop\\GenHorizon\\ArtifyGen\\ArtifyGen.csproj",
+        "projectUniqueName": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\ArtifyGen.csproj",
         "projectName": "ArtifyGen",
-        "projectPath": "C:\\Users\\rania\\OneDrive\\Desktop\\GenHorizon\\ArtifyGen\\ArtifyGen.csproj",
+        "projectPath": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\ArtifyGen.csproj",
         "packagesPath": "C:\\Users\\rania\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rania\\OneDrive\\Desktop\\GenHorizon\\ArtifyGen\\obj\\",
+        "outputPath": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rania\\AppData\\Roaming\\NuGet\\NuGet.Config",
