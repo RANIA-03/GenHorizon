@@ -17,4 +17,11 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\assets\css\theme\" />
+    <Folder Include="wwwroot\assets\img\icons\" />
+    <Folder Include="wwwroot\vendors\%40popper\" />
+    <Folder Include="wwwroot\vendors\popper\" />
+  </ItemGroup>
+
 </Project>

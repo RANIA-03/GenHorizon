@@ -5,6 +5,362 @@
       "PackagePath": "staticwebassets\\ArtifyGen.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\css\\theme-rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\css\\theme-rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\css\\theme-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\css\\theme-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\css\\theme.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Black.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Black.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Black.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BlackItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BlackItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BlackItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BlackItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BlackItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BlackItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BoldItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BoldItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Book.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Book.eot"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Book.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Book.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Book.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Book.woff"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Book.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Book.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BookItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BookItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BookItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BookItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BookItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BookItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-BookItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-BookItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-MediumItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-MediumItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-MediumItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-MediumItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\fonts\\CircularStd-MediumItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CircularStd-MediumItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\.gitkeep",
+      "PackagePath": "staticwebassets\\assets\\img\\.gitkeep"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\brands\\amazon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\brands\\amazon.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\brands\\google.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\brands\\netflix.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\brands\\netflix.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\brands\\zoom.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\brands\\zoom.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\button-arrow.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\button-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\check-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\check-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\comment.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\comment.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\comment1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\comment1.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\comment2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\comment2.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\comment3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\comment3.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\dashboard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\dashboardicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\dashboardicon.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\facebook-line1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\facebook-line1.svg"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\folder.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\folder.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\github-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\github-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\github.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\instagram-line1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\instagram-line1.svg"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\linkedin-line1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\linkedin-line1.svg"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\logoGen.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\logoGen.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\statistics.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\statistics.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\trilored.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\trilored.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\gallery\\twitter-line1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\twitter-line1.svg"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\illustrations\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\illustrations\\hero-header.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\hero-header.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\js\\bootstrap-navbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-navbar.js"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\js\\theme.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\js\\theme.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\video\\.gitkeep",
+      "PackagePath": "staticwebassets\\assets\\video\\.gitkeep"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\video\\beach.jpg",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\video\\beach.mp4",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.mp4"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\assets\\video\\beach.webm",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.webm"
+    },
+    {
       "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -243,6 +599,34 @@
     {
       "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\vendors\\@popperjs\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendors\\@popperjs\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\vendors\\fontawesome\\all.min.js",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\vendors\\is\\is.min.js",
+      "PackagePath": "staticwebassets\\vendors\\is\\is.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\vendors\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendors\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rania\\OneDrive\\Desktop\\Generative AI\\GenHorizon\\ArtifyGen\\wwwroot\\vendors\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendors\\swiper\\swiper-bundle.min.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ArtifyGen.Microsoft.AspNetCore.StaticWebAssets.props",
