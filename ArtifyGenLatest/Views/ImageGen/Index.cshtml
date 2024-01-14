@@ -1,0 +1,46 @@
+﻿<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      crossorigin="anonymous">
+<link rel="stylesheet" href="~/assets/css/todo.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<style>
+    .tasksInput {
+        display: flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .myTable td{
+        margin:5px
+    }
+</style>
+<section class="home" id="home">
+<div class="main"></div>
+<div id="todo-container">
+    <div style="text-align: center;">
+        <h2>
+          Sit back and let our<br /> AI work its magic!
+        </h2>
+    </div>
+    <div class="tasksInput">
+            <form asp-controller="ImageGen" asp-action="Generate" enctype="multipart/form-data">
+            <table class="tasks-input-row myTable">
+                <tr>
+                    <td>
+                    <input type="text" name="desc" id="add-task-input" placeholder="Customize your desires"></td>
+			    </tr>
+                <tr>
+                    <td>
+                    <input type="file" class="custom-file-input" name="formFile" >
+                    </td>
+                </tr>
+                <tr>
+                        <td> <button style="width: 150px;" id="add-task-btn">Generate</button></td>
+                </tr>
+              </table>
+         </form>
+    </div>
+    <ul id="task-list"></ul>
+</div>
+</section>

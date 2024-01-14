@@ -155,7 +155,8 @@ namespace ArtifyGen.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
-        public IActionResult Conversation()
+		[HttpGet, ActionName("Conversation")]
+		public IActionResult Conversation()
         {
             var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
             ViewBag.Message = _context.Messages.Where(user => user.UserId == userId).SingleOrDefault();
@@ -163,6 +164,7 @@ namespace ArtifyGen.Controllers
         }
         public IActionResult SendMessage(string message ,IFormFile FormFile)
         {
+
 
             return RedirectToAction("Conversation");
         }
